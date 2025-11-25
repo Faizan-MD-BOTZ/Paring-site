@@ -1,5 +1,5 @@
 {
-    "description": "arslan-pairing-site",
+    "description": "FAIZAN-AI-pairing-site",
     "main": "arslan.js",
   "engines" : { 
     "npm" : ">=9.7.2",
@@ -8,10 +8,10 @@
     "scripts": {
     "start": "node arslan.js"
   },
-  "author": "Arslan-MD",
+  "author": "FAIZAN-AI",
   "license": "GPL-3.0 license",
   "dependencies": {
-    "@whiskeysockets/baileys": "github:ArslanMDofficial/baileys-pro",
+    "@whiskeysockets/baileys": "github:Jeliostarr/DEV-Baileys",
     "qrcode": "^1.5.3",
     "awesome-phonenumber": "^2.64.0",
     "pino": "^8.1.0",
